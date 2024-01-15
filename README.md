@@ -19,8 +19,8 @@ I am currently expanding my knowledge , aiming to enhance my skills in Programmi
 
 #### 📫 Let's Connect!
 
-- [LinkedIn]linkedin.com/in/faisal-akhtar-663650296
-- [Portfolio]faisal-akhtar.web.app
-- [Gmail]faisalweb803@gmail.com
+- [LinkedIn](linkedin.com/in/faisal-akhtar-663650296)
+- [Portfolio](faisal-akhtar.web.app)
+- [Gmail](faisalweb803@gmail.com)
 
 Feel free to explore my repositories and don't hesitate to reach out for collaboration or just to chat about tech!
