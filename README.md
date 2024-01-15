@@ -20,7 +20,6 @@ I am currently expanding my knowledge , aiming to enhance my skills in Programmi
 #### 📫 Let's Connect!
 
 - [LinkedIn](linkedin.com/in/faisal-akhtar-663650296)
-- [![LinkedIn]([link-to-your-linkedin-logo](https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg))](link-to-your-linkedin-profile)
 - [Portfolio](faisal-akhtar.web.app)
 - [Gmail](faisalweb803@gmail.com)
 
