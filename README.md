@@ -14,7 +14,8 @@ I'm a passionate Full Stack Developer with expertise in building dynamic and res
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/19cf1f6246a55a20a2fc585c1517827a55ab59b18a5306974f54a5b6f4e35fc9/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6769746875622d69636f6e2e737667"><img src="https://camo.githubusercontent.com/19cf1f6246a55a20a2fc585c1517827a55ab59b18a5306974f54a5b6f4e35fc9/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6769746875622d69636f6e2e737667" alt="icon" width="40" height="40" data-canonical-src="https://techstack-generator.vercel.app/github-icon.svg" style="max-width: 100%;"></a> 
 
 
-## Languages and Tools:
+<h3 align="left" dir="auto"><a id="user-content-languages-and-tools" class="anchor" aria-hidden="true" tabindex="-1" href="#languages-and-tools"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>Languages and Tools:</h3>
+
 <a href="https://getbootstrap.com" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" style="max-width: 100%;"> </a>
 <a href="https://www.w3schools.com/css/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="max-width: 100%;"> </a>
 <a href="https://expressjs.com" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" style="max-width: 100%;"> </a>
@@ -31,6 +32,8 @@ I'm a passionate Full Stack Developer with expertise in building dynamic and res
 <a href="https://redux.js.org" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40" style="max-width: 100%;"> </a>
 <a href="https://tailwindcss.com/" rel="nofollow"> <img src="https://camo.githubusercontent.com/0568e2de313626b2bd9b96f326941b012d45e9a4db1a23aa78bd8036207e57f8/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f7461696c77696e646373732f7461696c77696e646373732d69636f6e2e737667" alt="tailwind" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" style="max-width: 100%;"> </a>
 <a href="https://www.typescriptlang.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" style="max-width: 100%;"> </a>
+<a href="https://www.cprogramming.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" style="max-width: 100%;"> </a>
+<a href="https://www.w3schools.com/cpp/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" style="max-width: 100%;"> </a>
 
 
 #### 💼 Experience
@@ -47,9 +50,9 @@ I am currently expanding my knowledge , aiming to enhance my skills in Programmi
 
 #### 📫 Let's Connect!
 
-- [LinkedIn](linkedin.com/in/faisal-akhtar-663650296)
-- [Portfolio](faisal-akhtar.web.app)
-- [Gmail](faisalweb803@gmail.com)
+<a href="https://www.linkedin.com/in/faisal-akhtar-663650296/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkdin" height="30" width="40" style="max-width: 100%;"></a>
+[Portfolio](faisal-akhtar.web.app)
+[Gmail](faisalweb803@gmail.com)
 
 
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d95ee58fd1a68f8ca5b3cced5006e1a8c0b53c58be97aa6f2a90ff61e5411ef8/68747470733a2f2f6769746875622d726561646d652d73746174732d68656e6e612d6f6d6567612d35312e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d736861696b687a6179616e266c61796f75743d636f6d7061637426686964653d6a7570797465722532306e6f7465626f6f6b267468656d653d67726561742d676174736279"><img src="https://camo.githubusercontent.com/d95ee58fd1a68f8ca5b3cced5006e1a8c0b53c58be97aa6f2a90ff61e5411ef8/68747470733a2f2f6769746875622d726561646d652d73746174732d68656e6e612d6f6d6567612d35312e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d736861696b687a6179616e266c61796f75743d636f6d7061637426686964653d6a7570797465722532306e6f7465626f6f6b267468656d653d67726561742d676174736279" alt="shaikhzayan" data-canonical-src="https://github-readme-stats-henna-omega-51.vercel.app/api/top-langs/?username=shaikhzayan&amp;layout=compact&amp;hide=jupyter%20notebook&amp;theme=great-gatsby" style="max-width: 100%;"></a></p>
