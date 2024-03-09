@@ -46,7 +46,7 @@ I'm a passionate Full Stack Developer with expertise in building dynamic and res
 
 #### 🌱 Currently Learning
 
-I am currently expanding my knowledge , aiming to enhance my skills in Programming.
+I am currently expanding my knowledge by learning web3, aiming to enhance my skills in Programming.
 
 #### 📫 Let's Connect!
 
