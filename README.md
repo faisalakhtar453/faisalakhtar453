@@ -56,6 +56,11 @@ I am currently expanding my knowledge by learning web3, aiming to enhance my ski
 <br/>
 <!-- <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d95ee58fd1a68f8ca5b3cced5006e1a8c0b53c58be97aa6f2a90ff61e5411ef8/68747470733a2f2f6769746875622d726561646d652d73746174732d68656e6e612d6f6d6567612d35312e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d736861696b687a6179616e266c61796f75743d636f6d7061637426686964653d6a7570797465722532306e6f7465626f6f6b267468656d653d67726561742d676174736279"><img src="https://camo.githubusercontent.com/d95ee58fd1a68f8ca5b3cced5006e1a8c0b53c58be97aa6f2a90ff61e5411ef8/68747470733a2f2f6769746875622d726561646d652d73746174732d68656e6e612d6f6d6567612d35312e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d736861696b687a6179616e266c61796f75743d636f6d7061637426686964653d6a7570797465722532306e6f7465626f6f6b267468656d653d67726561742d676174736279" alt="shaikhzayan" data-canonical-src="https://github-readme-stats-henna-omega-51.vercel.app/api/top-langs/?username=shaikhzayan&amp;layout=compact&amp;hide=jupyter%20notebook&amp;theme=great-gatsby" style="max-width: 100%;"></a></p> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faisalakhtar453&" alt="ahmaddeveloper17" /></p>
+<p>
+   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=faisalakhtar453&show_icons=true&locale=en&layout=compact" alt="faisalakhtar453" />
+</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=faisalakhtar453&show_icons=true&locale=en" alt="faisalakhtar453" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faisalakhtar453&" alt="faisalakhtar453" /></p>
 
 Feel free to explore my repositories and don't hesitate to reach out for collaboration or just to chat about tech!
